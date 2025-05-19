@@ -24,7 +24,10 @@ import com.mipollosabroso2.springboot_mipollosabroso2.services.PlatoService;
 
 @RestController
 @RequestMapping("/api/platos")
-@CrossOrigin(origins = "http://localhost:5173")
+@CrossOrigin(origins = {
+    "http://localhost:5173",
+    "https://mipollosabrosoreact.vercel.app"
+})
 public class PlatoContoller {
 
     @Autowired
