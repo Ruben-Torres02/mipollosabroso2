@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.mipollosabroso2.springboot_mipollosabroso2.SpringbootMipollosabroso2ApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.47 s -- in com.mipollosabroso2.springboot_mipollosabroso2.SpringbootMipollosabroso2ApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.00 s -- in com.mipollosabroso2.springboot_mipollosabroso2.SpringbootMipollosabroso2ApplicationTests
