@@ -1,0 +1,13 @@
+com\mipollosabroso2\springboot_mipollosabroso2\repositories\UserRepository.class
+com\mipollosabroso2\springboot_mipollosabroso2\entities\Plato.class
+com\mipollosabroso2\springboot_mipollosabroso2\config\WebConfig.class
+com\mipollosabroso2\springboot_mipollosabroso2\services\UserService.class
+com\mipollosabroso2\springboot_mipollosabroso2\controllers\PlatoContoller.class
+com\mipollosabroso2\springboot_mipollosabroso2\controllers\UserController.class
+com\mipollosabroso2\springboot_mipollosabroso2\services\PlatoService.class
+com\mipollosabroso2\springboot_mipollosabroso2\SpringbootMipollosabroso2Application.class
+com\mipollosabroso2\springboot_mipollosabroso2\services\UserServiceImpl.class
+com\mipollosabroso2\springboot_mipollosabroso2\config\WebConfig$1.class
+com\mipollosabroso2\springboot_mipollosabroso2\repositories\PlatoRepository.class
+com\mipollosabroso2\springboot_mipollosabroso2\services\PlatoServiceImpl.class
+com\mipollosabroso2\springboot_mipollosabroso2\entities\User.class
